@@ -1,2 +1,2 @@
-# test-check
+# test
 This is a test repository
